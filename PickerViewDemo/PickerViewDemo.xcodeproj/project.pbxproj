@@ -238,6 +238,7 @@
 				TargetAttributes = {
 					68739B601CC75431009C6840 = {
 						CreatedOnToolsVersion = 7.3;
+						DevelopmentTeam = 7UL3LRJL93;
 					};
 					68739B791CC75431009C6840 = {
 						CreatedOnToolsVersion = 7.3;
@@ -449,9 +450,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 7UL3LRJL93;
 				INFOPLIST_FILE = PickerViewDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.shidaiyinuo.PickerViewDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.dji.PickerViewDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -460,9 +462,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 7UL3LRJL93;
 				INFOPLIST_FILE = PickerViewDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.shidaiyinuo.PickerViewDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.dji.PickerViewDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
